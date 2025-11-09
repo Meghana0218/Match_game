@@ -1,0 +1,14 @@
+.btn {
+  background-color: transparent;
+  margin: 10px;
+  color: #ffffff;
+  font-weight: 600;
+  border: 0px;
+  font-family: 'roboto';
+  font-size: 25px;
+}
+
+.tab-active {
+  color: #fec653;
+  text-decoration: underline;
+}
